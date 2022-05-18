@@ -121,3 +121,20 @@ a:hover {
     width:175px;
     height:175px;
 }
+
+.section-three {
+    background-color: #E5E7EB;
+    padding:125px;
+}
+
+.quote {
+    font-size:36px;
+    text-align:center;
+    font-weight: lighter;
+}
+
+.thor {
+    margin-top:40px;
+    font-size:25px;
+    text-align:right;
+}
