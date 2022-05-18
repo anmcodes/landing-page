@@ -1,5 +1,7 @@
 # landing-page
 
+-- Do not worry about making your project look nice on a mobile device. We’ll learn that later
+
 1. Hero and Footer background color
     - #1F2937
 
