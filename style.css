@@ -5,7 +5,7 @@
 
 .section-one {
     background-color: #1F2937;
-    padding:25px;
+    padding:25px 75px 150px 75px;
 }
 
 .header {
@@ -18,12 +18,10 @@
 
 .header h4 {
     font-size:24px;
-    margin-left:50px;
 }
 
 ul {
     margin-left:auto;
-    margin-right:100px;
 }
 
 ul li {
@@ -41,15 +39,54 @@ a:hover {
     color:red;
 }
 
+.cta-flex {
+    display:flex;
+    align-items:center;
+    flex:1;
+}
+
 
 
 .cta {
     color:#E5E7EB;
     font-size:50px;
+    font-weight: bolder;
+}
+
+.awesome {
+    display:flex;
+    flex-direction: column;
+    gap:25px;
+    flex-shrink: 6;
+}
+
+.msg-one {
+    color:#E5E7EB;
+    padding-right:75px;
 }
 
 .image {
     background-color: #5a5c5f;
     width:400px;
     height:200px;
+}
+
+.sign-up {
+    padding:5px 25px;
+    background-color: rgb(0, 98, 255);
+    border: 2px solid rgb(0, 98, 255);
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+}
+
+.sign-up:hover {
+    background-color: black;
+    border-color: black;
+}
+
+.img-text {
+    color:white;
+    text-align:center;
+    margin-top:85px;
 }
