@@ -141,6 +141,8 @@ a:hover {
 
 .section-four {
     padding:100px;
+    display:flex;
+    justify-content: center;
 }
 
 .cta-two {
@@ -169,4 +171,11 @@ a:hover {
 .btn-two:hover {
     background-color: white;
     color:#3882F6;
+}
+
+footer {
+    text-align:center;
+    padding:25px;
+    color:white;
+    background-color:#1F2937;
 }
