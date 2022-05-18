@@ -140,7 +140,33 @@ a:hover {
 }
 
 .section-four {
+    padding:100px;
+}
+
+.cta-two {
     display:flex;
-    padding:150px;
+    gap:100px;
+    padding:50px 25px;
     background-color: #3882F6;
+    border:2px solid #3882F6;
+    border-radius: 15px;
+    color:white;
+}
+
+.cta-two p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(210, 210, 210);
+}
+
+.btn-two {
+    padding:10px 45px;
+    background-color: #3882F6;
+    border:2px solid white;
+    border-radius: 10px;
+    color:white;
+}
+
+.btn-two:hover {
+    background-color: white;
+    color:#3882F6;
 }
