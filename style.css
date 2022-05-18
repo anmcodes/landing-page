@@ -40,3 +40,16 @@ a {
 a:hover {
     color:red;
 }
+
+
+
+.cta {
+    color:#E5E7EB;
+    font-size:50px;
+}
+
+.image {
+    background-color: #5a5c5f;
+    width:400px;
+    height:200px;
+}
