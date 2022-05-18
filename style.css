@@ -138,3 +138,9 @@ a:hover {
     font-size:25px;
     text-align:right;
 }
+
+.section-four {
+    display:flex;
+    padding:150px;
+    background-color: #3882F6;
+}
